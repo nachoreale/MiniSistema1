@@ -1,0 +1,44 @@
+[
+  {
+    "legajo": 1,
+    "nombre": "Leo",
+    "apellido": "Messi",
+    "año": 1990
+  },
+  {
+    "legajo": 2,
+    "nombre": "Rodri",
+    "apellido": "Parra",
+    "año": 2014
+  },
+  {
+    "legajo": 3,
+    "nombre": "Nicolas",
+    "apellido": "Alberto",
+    "año": 1950
+  },
+  {
+    "legajo": 4,
+    "nombre": "Rodrigo",
+    "apellido": "Camacho",
+    "año": 2000
+  },
+  {
+    "legajo": 5,
+    "nombre": "Alfredo",
+    "apellido": "Camacho",
+    "año": 2000
+  },
+  {
+    "legajo": 6,
+    "nombre": "Matias",
+    "apellido": "Pinto",
+    "año": 2013
+  },
+  {
+    "legajo": 7,
+    "nombre": "Nicolas",
+    "apellido": "Sanchez",
+    "año": 2009
+  }
+]
